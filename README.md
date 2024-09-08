@@ -1,6 +1,6 @@
 # Billionaire_of_2023
-
 **Objective Summary**: Analysis of Billionaires of 2023
+
 
 **Description and Insight**: 
 As per Colour Theory, the color most associated with Billionaires is a blue teal. 44% of affluent investors also prefer blue because they believe it is associated with wealth. The color of money theory shows that the preference for blue deepens steadily with wealth. Hence, the theme of the dashboard is blue. 
