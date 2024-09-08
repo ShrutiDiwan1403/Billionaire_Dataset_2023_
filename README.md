@@ -27,3 +27,4 @@ Flourish: https://app.flourish.studio/visualisation/16260875/edit
 **Performance Outcome**: There are 16 female billionaires whose wealth and ranking increased with the split family fortune. The two female billionaires belong to self-made businesses that benefited from a split family fortune and are residents of Brazil and the United States. As per the analysis, there are NO FEMALE BILLIONAIRES in TELECOM SECTOR. The number of self-made billionaires exceeds that of inherited and unearned ones. 
 
 
+![BILLIONAIRE_](https://github.com/user-attachments/assets/2c590322-c0e2-4c44-8fc1-48237a14d31a)
