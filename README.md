@@ -5,13 +5,13 @@
 **Description and Insight**: 
 As per Colour Theory, the color most associated with Billionaires is a blue teal. 44% of affluent investors also prefer blue because they believe it is associated with wealth. The color of money theory shows that the preference for blue deepens steadily with wealth. Hence, the theme of the dashboard is blue. 
 
-Feature introduction:
+**Feature introduction**:
 
-*Gender*: Gender of Billionaire
+*Gender*: *Gender of Billionaire*
 
-*Self-Made*: Indicates whether the billionaire is self-made or not
+*Self-Made*: *Indicates whether the billionaire is self-made or not*
 
-*Status*: There are six status categories: R, N, U, E, D, and Split Family Fortune. D: D represents Founders. U: U indicates inherited (based on succession planning) or unearned wealth. Split Family Fortune is different than Inherited Fortune; Split Family Fortune Billionaires are the ones who inherited the wealth on the demise of the Founder/ Owner.
+*Status*: *There are six status categories: R, N, U, E, D, and Split Family Fortune. D: D represents Founders. U: U indicates inherited (based on succession planning) or unearned wealth. Split Family Fortune is different than Inherited Fortune; Split Family Fortune Billionaires are the ones who inherited the wealth on the demise of the Founder/ Owner*.
 
 
 **Programming Language**:  --
