@@ -27,7 +27,7 @@ Tableau: https://public.tableau.com/app/profile/shruti.sindhi6021/viz/2023_Billi
 
 Flourish: https://app.flourish.studio/visualisation/16260875/edit
 
-**Performance Outcome**: There are 16 female billionaires whose wealth and ranking increased with the split family fortune. The two female billionaires belong to self-made businesses that benefited from a split family fortune and are residents of Brazil and the United States. As per the analysis, there are NO FEMALE BILLIONAIRES in TELECOM SECTOR. The number of self-made billionaires exceeds that of inherited and unearned ones. 
+**Performance Outcome**: There are 16 female billionaires whose wealth and ranking increased with the split family fortune. The two female billionaires belong to self-made businesses that benefited from a split family fortune and are residents of Brazil and the United States. As per the analysis, there are **NO FEMALE BILLIONAIRES in TELECOM SECTOR**. The number of self-made billionaires exceeds that of inherited and unearned ones. 
 Flourih software is used to display the top 12 Billionaires in 2023 in a Storyboard
 
 
